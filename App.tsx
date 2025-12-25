@@ -7,6 +7,7 @@ import HomeTabNavigator from './src/screens/HomeScreen/HomeTabNavigator';
 
 const Stack = createNativeStackNavigator();
 
+
 const App = () => {
   return (
     <SafeAreaView style={{flex:1}}>
